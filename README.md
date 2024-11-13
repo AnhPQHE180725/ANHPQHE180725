@@ -5,8 +5,10 @@
 </p>
 
 <p align='center'>
-    Personal Email:
+   <p>Edu Email:</p>
   <a href="mailto:anhpqhe180725@fpt.edu?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>Personal Email:</p>
+  <a href="mailto:quanganhpham2k4@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
