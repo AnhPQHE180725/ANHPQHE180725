@@ -16,19 +16,19 @@
 <h4>🔭  I’m currently working with...</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=for-the-badge&logo=html&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
 
 <h4>🌱  I'm currently learning...</h4>
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
