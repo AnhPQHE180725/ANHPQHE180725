@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Pham Quang Anh 👩‍💻 </h1>
 
 <p align='center'>
-  I'm in VietNam (Fresher) Software Developer
+  I'm Software Developer
 </p>
 
 <p align='center'>
